@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## 🌱 I’m currently learning about Web Developing
 <!--
 **LDukeH/LDukeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
