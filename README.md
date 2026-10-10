@@ -6,7 +6,7 @@
 
 💬 Ask me about **Next.js, React, TypeScript, shadcn/ui, Tailwind CSS**
 
-📫 How to reach me: **[duylh.tech@gmail.com](mailto:duylh.tech@gmail.com)**
+📫 How to reach me: **[leduy1212123@gmail.com](mailto:leduy1212123@gmail.com)**
 
 ---
 
